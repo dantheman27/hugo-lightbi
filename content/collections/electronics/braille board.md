@@ -1,7 +1,7 @@
 ---
 Title: Braille Board Mechanical Display
 Subtitle: ""
-Date: 2024-02-10
+Date: 
 Lastmod : 
 Tags: ["3D-Printing", "Electronics"]
 image : "/img/main.png"

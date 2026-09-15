@@ -1,7 +1,7 @@
 ---
 Title: Extruder Flow Compensation
 Subtitle: ""
-Date: 2024-02-09
+Date:
 Lastmod : 
 Tags: ["3D-Printing"]
 image : "/img/extrusion_main.jpg"
